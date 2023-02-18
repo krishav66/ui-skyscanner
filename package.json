@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@skyscanner/backpack-web": "^17.2.0",
+    "node": "^16.19.0"
+  }
+}
